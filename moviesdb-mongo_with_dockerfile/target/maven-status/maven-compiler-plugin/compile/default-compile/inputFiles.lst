@@ -1,0 +1,11 @@
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/domain/Movies.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/service/MovieServiceImpl2.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/service/MovieServiceImpl.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/controller/MovieController.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/exceptions/NullDetailsException.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/exceptions/NoSuchMovieException.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/MoviesdbApplication.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/exceptions/MovieNameExistsException.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/repository/MovieRepository.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/config/WebConfiguration.java
+/home/cgi/moviesdb/src/main/java/com/stackroute/moviesdb/service/MovieService.java

@@ -1,0 +1,10 @@
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/domain/Movies.java
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/controller/MovieController.java
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/service/MovieService.java
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/exceptions/NullDetailsException.java
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/MoviesNewApplication.java
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/exceptions/NoSuchMovieException.java
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/config/WebConfiguration.java
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/exceptions/MovieNameExistsException.java
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/repository/MovieRepository.java
+/home/cgi/Myprojects/moviesNew_with test_cases/src/main/java/com/stackroute/moviesNew/service/MovieServiceImpl.java

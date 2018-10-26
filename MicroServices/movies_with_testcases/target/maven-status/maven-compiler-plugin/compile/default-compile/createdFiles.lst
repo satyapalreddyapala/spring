@@ -1,0 +1,10 @@
+com/stackroute/moviesNew/exceptions/NoSuchMovieException.class
+com/stackroute/moviesNew/service/MovieServiceImpl.class
+com/stackroute/moviesNew/repository/MovieRepository.class
+com/stackroute/moviesNew/exceptions/MovieNameExistsException.class
+com/stackroute/moviesNew/domain/Movies.class
+com/stackroute/moviesNew/service/MovieService.class
+com/stackroute/moviesNew/exceptions/NullDetailsException.class
+com/stackroute/moviesNew/MoviesNewApplication.class
+com/stackroute/moviesNew/config/WebConfiguration.class
+com/stackroute/moviesNew/controller/MovieController.class

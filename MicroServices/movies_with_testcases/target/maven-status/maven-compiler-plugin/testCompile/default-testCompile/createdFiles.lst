@@ -1,0 +1,4 @@
+com/stackroute/moviesNew/MoviesNewApplicationTests.class
+com/stackroute/moviesNew/repository/MovieRepositoryTest.class
+com/stackroute/moviesNew/controller/MovieControllerTest.class
+com/stackroute/moviesNew/service/MovieServiceImplTest.class
